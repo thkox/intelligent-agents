@@ -5,9 +5,8 @@
 The **Intelligent Agents Simulation** is a team assignment designed for the "Intelligent Agents" course, offered in the 8th semester of the 2023-2024 academic year at the University of Piraeus, Department of Informatics. This simulation project involves two competing teams of intelligent agents tasked with gathering resources (wood, stone, gold) from a shared environment and returning them to their respective villages. Each agent has unique attributes, such as energy consumption, speed, and resource carrying capacity, which affect their behavior and effectiveness. The environment is randomly generated as a grid containing villages, resources, and obstacles that agents must navigate. Using pathfinding algorithms like DFS (Depth-First Search) and A*, agents explore the map and collect resources. Agents can also exchange knowledge or reproduce when they meet, enhancing team performance. The simulation ends when one team collects all required resources or loses all its agents due to energy depletion. The project was developed using Godot Engine.
 
 ## Course Information
-
-- **Institution:** University of Piraeus
-- **Department:** Department of Informatics
+- **Institution:** [University of Piraeus](https://www.unipi.gr/en/)
+- **Department:** [Department of Informatics](https://cs.unipi.gr/en/)
 - **Course:** Intelligent Agents (2023-2024)
 - **Semester:** 8th
 
